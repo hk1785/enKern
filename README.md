@@ -251,7 +251,6 @@ plot3d(
 
 rglwidget()
 ```
-```
 Example 2: Oral microbiome (Park et al., 2023, BMC Microbiology)
 ```
 data(oral.otu.tab)

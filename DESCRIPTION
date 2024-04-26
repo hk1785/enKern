@@ -1,0 +1,11 @@
+Package: enKern
+Title: An ensemble learning method for joint kernel association testing and principal component analysis on multiple kernels
+Version: 1.0
+Date: 2024-04-26
+Author: Hyunwook Koh
+Maintainer: Hyunwook Koh <hyunwook.koh@stonybrook.edu>
+Description: This R package provides facilities for enKern to conduct kernel association testing and principal component analysis jointly on multiple input kernels.
+Depends: R(>= 4.1.3), ecodist, GUniFrac, proxy, rgl
+License: GPL-2
+NeedsCompilation: no
+URL: https://github.com/hk1785/enKern

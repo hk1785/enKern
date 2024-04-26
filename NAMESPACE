@@ -1,0 +1,3 @@
+export("D.to.K", "enKern", "oral.Ds", "oral.meta", "oral.otu.tab",
+       "oral.tree", "throat.Ds", "throat.meta", "throat.otu.tab",
+       "throat.tree")
